@@ -36,4 +36,7 @@ void main() {
   else if (inputMonth == 12) {
     print("December");
   }
+  else {
+    print("um.... use numbers more than 0 and less than 12")
+  }
 }
